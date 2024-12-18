@@ -1,2 +1,5 @@
 # NCC-MI
-Code repository for simulation studies evaluating the use of multiple imputation (MI) in nested case-control (NCC) designs. Focuses on comparing MI with traditional methods, such as the Thomas and IPW approaches, in terms of efficiency and precision.
+R for the simulation study of "Improving Efficiency and Stability in Nested Case-Control Studies Using Multiple Imputation" by Sehee Jung (2024).
+
+* R files heading 'function_xxx.R' include functions required for 'main_test.R' 
+* Run 'main_test.R' for reproducing the simulation study of our study.
